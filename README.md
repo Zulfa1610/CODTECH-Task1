@@ -8,12 +8,12 @@ Domain:Data Analytics
 
 Duration:Dec 2024 to Jan 2025
 
-OVERVIEW OF THE PROJECT
+# OVERVIEW OF THE PROJECT
 
-Project:Exploratory Data Analysis (EDA) on the Iris Dataset: Insights into Flower Species Characteristics
+## Project:Exploratory Data Analysis (EDA) on the Iris Dataset: Insights into Flower Species Characteristics
 
-Project Objectives
-1.	Understand the Dataset:
+## Project Objectives
+# 1.	Understand the Dataset:
 •	Familiarize yourself with the dataset structure and contents.
 •	Understand the meaning and range of each feature:
 1.	Sepal Length: Length of the sepal in centimeters.
@@ -24,23 +24,23 @@ Project Objectives
 1.	Iris-setosa   
 2.	Iris-versicolor
 3.	Iris-virginica
-2.	Data Cleaning and Preprocessing:
+# 2.	Data Cleaning and Preprocessing:
 •	Check for missing or inconsistent data values.
 •	Handle duplicates or anomalies in the dataset.
-3.	Statistical Analysis:
+# 3.	Statistical Analysis:
 •	Summarize the data using descriptive statistics (mean, median, standard deviation, etc.).
 •	Calculate statistical properties of each feature and their distributions across different species.
-4.	Visualization Techniques:
+# 4.	Visualization Techniques:
 •	Histograms: Analyze the distribution of individual features for each species.
 •	Box Plots: Identify potential outliers in the data.
 •	Scatter Plots: Examine relationships between pairs of features (e.g., petal length vs. petal width) to understand separability among species.
 •	Heatmaps: Display the correlation matrix to identify relationships between numerical features.
 •	Pair Plots: Visualize all possible pairwise combinations of features to explore interdependencies.
-5.	Insights and Interpretations:
+# 5.	Insights and Interpretations:
 •	Identify which features are most important for distinguishing between the three species.
 •	Observe patterns and trends, such as which species has the largest or smallest petals or sepals.
 •	Highlight any correlations or linear separability between features for potential use in machine learning models.
-6.	Documentation and Reporting:
+# 6.	Documentation and Reporting:
 •	Summarize all findings and visualizations in a well-organized report.
 •	Include both statistical insights and visualization outputs to present a comprehensive analytics.
 
